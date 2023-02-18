@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictoriaKinkajou
-- 🌱 I’m currently studying data science with AiCore
+- 🌱 I’m currently studying machine learning with AiCore
 
 <!---
 VictoriaKinkajou/VictoriaKinkajou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
